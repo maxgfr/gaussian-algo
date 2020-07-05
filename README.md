@@ -1,4 +1,4 @@
-# gaussian_algo
+# gaussian-algo
 
 Algorithm for getting ~21% of posts selected (based on number of likes / reactions).
 
